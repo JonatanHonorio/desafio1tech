@@ -1,0 +1,68 @@
+*{
+    margin: 0px;
+    
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#titulo{
+    text-align: center;
+}
+
+#texto-superior{
+    margin-left: 100px;
+    margin-top: 70px;
+    font-size: 40px;
+}
+#menu-superior{
+    background-color: rgb(22, 21, 21);
+    color: aliceblue;
+    text-align: center;
+}
+
+#menuiii{
+    background-color: #0ca8a8;
+    color: aliceblue;
+    display: grid;
+    grid-auto-flow: column;
+    font-size: 40px;
+}
+
+#meio{
+    background-color: rgb(247, 11, 11);
+
+}
+#loto{
+    margin-left: 100px;
+}
+
+#formulario{
+    text-align: center;
+
+}
+
+#tformulario{
+    text-align: center;
+
+}
+input{
+    width: 508px;
+height: 72px;
+top: 1661px;
+left: 466px;
+gap: 0px;
+border-radius: 10px 0px 0px 0px;
+opacity: 0px;
+margin: 15px;
+padding-left: 10px;
+
+}
+
+button{
+    width: 380px;
+    height: 70px;
+    background-color: #dd5f0b;
+    font-size: 20px;
+    
+
+    
+}
