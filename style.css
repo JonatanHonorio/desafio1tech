@@ -1,17 +1,30 @@
 *{
     margin: 0px;
     
-    font-family: 'Times New Roman', Times, serif;
+    font-family: Arial, Helvetica, sans-serif
 }
 
 #titulo{
     text-align: center;
+    Width: 1024px;
+    Height: 300px;
+    Top:  206px;
+    Left: 662px;
+    margin-left: 180px;
+    text-align: center;
+    font-size: 70px;
 }
 
 #texto-superior{
-    margin-left: 100px;
-    margin-top: 70px;
+    Width: 1024px;
+    Height: 300px;
+    Top:  206px;
+    Left: 662px;
+    margin-left: 180px;
+    text-align: center;
     font-size: 40px;
+
+    
 }
 #menu-superior{
     background-color: rgb(22, 21, 21);
@@ -20,16 +33,25 @@
 }
 
 #menuiii{
-    background-color: #0ca8a8;
-    color: aliceblue;
+    background-color: #F9F9F9;
+    color:black;
     display: grid;
     grid-auto-flow: column;
-    font-size: 40px;
+    font-size: 30px;
+    
+    Height:100px;
+    Left:656px;
+    text-align: center;
+    
 }
 
 #meio{
-    background-color: rgb(247, 11, 11);
-
+    background-color: #FFFFFF;
+    color: black;
+    text-align: left;
+    grid-auto-flow: column;
+    display: flex;
+    Height: 720px
 }
 #loto{
     margin-left: 100px;
